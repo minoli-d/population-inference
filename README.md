@@ -1,5 +1,5 @@
 
-# 📄 Reproducibility Document
+# Reproducibility Document
 
 **Project Title**: *Past Populations and Future Threats: Genome-Inferred Demography of Vertebrates*  
 **Author**: Minoli Daigavane  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 population-inference/
@@ -26,7 +26,7 @@ population-inference/
 
 ---
 
-## 1. 🧬 Project Overview
+## 1. Project Overview
 
 This study reconstructs historical effective population sizes (Ne) using whole-genome assemblies for 499 vertebrate species. Using the Pairwise 
 Sequentially Markovian Coalescent (PSMC) model, we estimate Ne trajectories and evaluate whether genome-based demographic history aligns with IUCN 
