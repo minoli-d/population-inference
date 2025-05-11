@@ -1,0 +1,86 @@
+Ailurus fulgens
+Amphilophus
+Amphiprion ocellaris
+Aotus nancymaae
+Aptenodytes forsteri
+Ara glaucogularis
+Arctocephalus gazella
+Betta splendens
+Bos taurus
+Bubo scandiacus
+Callithrix jacchus
+Canis lupus
+Canis lupus familiaris
+Capra hircus
+Cavia aperea
+Ceratotherium simum simum
+Cervus elaphus yarkandensis
+Cervus nippon
+Chauna torquata
+Chlorocebus sabaeus
+Chrysemys picta
+Clupea harengus
+Coleonyx brevis
+Coturnix japonica
+Cyanistes caeruleus
+Cynoglossus semilaevis
+Cyprinus carpio
+Eublepharis macularius
+Felis catus
+Ficedula albicollis
+Fukomys damarensis
+Gallus gallus domesticus
+Giraffa camelopardalis
+Gorilla gorilla
+Gyps fulvus
+Hippopotamus amphibius
+Homo sapiens
+Hylobates lar
+Larimichthys crocea
+Larus argentatus
+Larus marinus
+Macaca mulatta
+Mandrillus leucophaeus
+Microcebus murinus
+Monodelphis domestica
+Moschus berezovskii
+Mus musculus
+Neogale vison
+Odobenus rosmarus
+Orcinus orca
+Ornithorhynchus anatinus
+Pan troglodytes
+Pan troglodytes 
+Panthera pardus
+Panthera tigris
+Papio anubis
+Paralichthys olivaceus
+Pelecanus crispus
+Phoenicopterus roseus
+Pithecia pithecia
+Platalea ajaja
+Poecilia reticulata
+Pogona vitticeps
+Pongo abelii
+Procavia capensis
+Pungitius pungitius
+Pygoscelis adeliae
+Rangifer tarandus
+Rhea pennata
+Rousettus aegyptiacus
+Saimiri boliviensis boliviensis
+Salmo salar
+Sarcophilus harrisii
+Saxicola maurus
+Sphaerodactylus inigoi
+Sus scrofa
+Syngnathus scovelli
+Taeniopygia guttata
+Tapirus indicus
+Thamnophis sirtalis
+Tupaia chinensis belangeri
+Turdus merula
+Tursiops truncatus
+Ursus arctos
+Vicugna pacos
+Vulpes vulpes
